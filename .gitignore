@@ -1,0 +1,113 @@
+﻿# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.vsix
+*.nupkg
+*.pdb
+
+# IDEs and editors #
+####################
+.idea/
+.vscode/
+.vscode-test/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Build directories #
+#####################
+bin/
+obj/
+out/
+AppPackages/
+*.appx
+*.appxsym
+*.appxupload
+*.aab
+*.msix
+*.msixupload
+*.msixbundle
+*.symbols.nupkg
+
+# User-specific files #
+#######################
+.vs/
+_TechnologyPreview/
+.ionide/
+.vscode/
+
+# ASP.NET Scaffolding #
+#######################
+ScaffoldingReadMe.txt
+
+# Visual Studio 2019/2022 #
+###########################
+.vs/
+.vs/*
+
+# Rider #
+#########
+.idea/
+.idea_modules/
+.idea/Modules/
+.idea/module/
+
+# Uncomment if you have an existing .config file for settings or credentials #
+# appsettings.config
+
+# User-specific files #
+#######################
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files #
+#############################
+mono_crash.*
+
+# Windows image file caches #
+#############################
+Thumbs.db
+ehthumbs.db
+
+# Folder config file #
+######################
+Desktop.ini
+
+# Recycle Bin used on file shares #
+###################################
+$RECYCLE.BIN/
+
+# Office Temp Files #
+#####################
+~$*
+~*.tmp
+
+# Windows shortcuts #
+#####################
+*.lnk

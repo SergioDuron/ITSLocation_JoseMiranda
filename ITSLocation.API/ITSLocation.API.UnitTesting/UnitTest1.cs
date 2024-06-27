@@ -5,6 +5,7 @@ namespace ITSLocation.API.UnitTesting
         [SetUp]
         public void Setup()
         {
+            //
         }
 
         [Test]
