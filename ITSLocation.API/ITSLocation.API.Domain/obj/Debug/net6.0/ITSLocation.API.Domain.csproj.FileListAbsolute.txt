@@ -1,0 +1,11 @@
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\bin\Debug\net6.0\ITSLocation.API.Domain.deps.json
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\bin\Debug\net6.0\ITSLocation.API.Domain.dll
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\bin\Debug\net6.0\ITSLocation.API.Domain.pdb
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.AssemblyInfoInputs.cache
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.AssemblyInfo.cs
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.dll
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\refint\ITSLocation.API.Domain.dll
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ITSLocation.API.Domain.pdb
+C:\Users\IT-SEEKERS\source\repos\ITSLocation.API\ITSLocation.API.Domain\obj\Debug\net6.0\ref\ITSLocation.API.Domain.dll

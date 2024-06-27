@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITSLocation.API.Domain/1.0.0": {
+        "runtime": {
+          "ITSLocation.API.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITSLocation.API.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

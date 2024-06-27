@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITSLocation.API.Application/1.0.0": {
+        "dependencies": {
+          "ITSLocation.API.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "ITSLocation.API.Application.dll": {}
+        }
+      },
+      "ITSLocation.API.Domain/1.0.0": {
+        "runtime": {
+          "ITSLocation.API.Domain.dll": {}
+        }
+      },
+      "ITSLocation.API.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ITSLocation.API.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ITSLocation.API.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITSLocation.API.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITSLocation.API.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITSLocation.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
