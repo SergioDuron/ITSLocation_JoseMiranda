@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation_JoseMiranda\\ITSLocation.API\\",
+  "WorkspaceRootPath": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72CDFD31-4A6C-4D3F-A25C-A8ABCA9CF644}|ITSLocation.API.UnitTesting\\ITSLocation.API.UnitTesting.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation_josemiranda\\itslocation.api\\itslocation.api.unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\itslocation.api\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|solutionrelative:itslocation.api\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\itslocation.api\\controllers\\pruebasprintdoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|solutionrelative:itslocation.api\\controllers\\pruebasprintdoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\itslocation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CA830B-8D87-4D40-AC43-04C371B36627}|ITSLocation.API\\ITSLocation.API.csproj|solutionrelative:itslocation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48EF108-344F-424C-BAE8-C1FCEBC97300}|ITS.Location.API.UnitTest.Infrastructure\\ITS.Location.API.UnitTest.Infrastructure.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\its.location.api.unittest.infrastructure\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48EF108-344F-424C-BAE8-C1FCEBC97300}|ITS.Location.API.UnitTest.Infrastructure\\ITS.Location.API.UnitTest.Infrastructure.csproj|solutionrelative:its.location.api.unittest.infrastructure\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C92DFB-45A8-433D-B248-CAA789BDCB09}|ITS.Location.API.UnitTest.Domain\\ITS.Location.API.UnitTest.Domain.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\its.location.api.unittest.domain\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C92DFB-45A8-433D-B248-CAA789BDCB09}|ITS.Location.API.UnitTest.Domain\\ITS.Location.API.UnitTest.Domain.csproj|solutionrelative:its.location.api.unittest.domain\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CDFD31-4A6C-4D3F-A25C-A8ABCA9CF644}|ITSLocation.API.UnitTesting\\ITSLocation.API.UnitTesting.csproj|c:\\users\\it-seekers\\documents\\github\\itslocation.api\\itslocation.api.unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72CDFD31-4A6C-4D3F-A25C-A8ABCA9CF644}|ITSLocation.API.UnitTesting\\ITSLocation.API.UnitTesting.csproj|solutionrelative:itslocation.api.unittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\log4net.config",
+              "RelativeDocumentMoniker": "ITSLocation.API\\log4net.config",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\log4net.config",
+              "RelativeToolTip": "ITSLocation.API\\log4net.config",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-12T20:04:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\Program.cs",
+              "RelativeDocumentMoniker": "ITSLocation.API\\Program.cs",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\Program.cs*",
+              "RelativeToolTip": "ITSLocation.API\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:46:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaSprintDosController.cs",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\Controllers\\PruebaSprintDosController.cs",
+              "RelativeDocumentMoniker": "ITSLocation.API\\Controllers\\PruebaSprintDosController.cs",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API\\Controllers\\PruebaSprintDosController.cs",
+              "RelativeToolTip": "ITSLocation.API\\Controllers\\PruebaSprintDosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:34:38.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation_JoseMiranda\\ITSLocation.API\\ITSLocation.API.UnitTesting\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITS.Location.API.UnitTest.Infrastructure\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ITS.Location.API.UnitTest.Infrastructure\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITS.Location.API.UnitTest.Infrastructure\\UnitTest1.cs",
+              "RelativeToolTip": "ITS.Location.API.UnitTest.Infrastructure\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:33:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITS.Location.API.UnitTest.Domain\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ITS.Location.API.UnitTest.Domain\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITS.Location.API.UnitTest.Domain\\UnitTest1.cs",
+              "RelativeToolTip": "ITS.Location.API.UnitTest.Domain\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:31:49.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API.UnitTesting\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ITSLocation.API.UnitTesting\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation_JoseMiranda\\ITSLocation.API\\ITSLocation.API.UnitTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API.UnitTesting\\UnitTest1.cs",
               "RelativeToolTip": "ITSLocation.API.UnitTesting\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T17:20:59.135Z",
               "EditorCaption": ""
