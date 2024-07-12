@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTFRYYJmr5s=",
+  "dgSpecHash": "Pn66l5dFyk8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation_JoseMiranda\\ITSLocation.API\\ITSLocation.API.UnitTesting\\ITSLocation.API.UnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\IT-SEEKERS\\Documents\\GitHub\\ITSLocation.API\\ITSLocation.API.UnitTesting\\ITSLocation.API.UnitTest.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IT-SEEKERS\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\IT-SEEKERS\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
